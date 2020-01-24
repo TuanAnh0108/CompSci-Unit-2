@@ -106,7 +106,7 @@ z|22221
 DEL|22222
 
 number in the protocol|Light State
---|--
+--|-- 
 1|OFF
 2|ON
 3| Space
